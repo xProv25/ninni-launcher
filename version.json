@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "changelog": "Fix: Installazione completa librerie Minecraft, controllo robusto installazione, supporto versioni multiple",
-  "downloadUrl": "https://github.com/xProv25/ninni-launcher/releases/download/Release-TEST/Ninni.Launcher.Setup.1.0.2.exe",
+  "downloadUrl": "https://github.com/xProv25/ninni-launcher/releases/download/v.1.0.3/Ninni.Launcher.Setup.1.0.3.exe",
   "releaseDate": "2026-04-15"
 }
