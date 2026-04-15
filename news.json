@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Aggiornamento 1.4.2",
+    "description": "Aggiunta la nuova zona PvP nel deserto, fix lag spike nelle città e miglioramenti alle quest giornaliere.",
+    "image": "https://i.imgur.com/XXXXXXX.png",
+    "date": "10 Apr 2025",
+    "tag": "UPDATE"
+  },
+  {
+    "id": 2,
+    "title": "Evento Pasquale 🐣",
+    "description": "Trova le uova nascoste in tutta la mappa e ottieni ricompense esclusive!",
+    "image": "https://i.imgur.com/XXXXXXX.png",
+    "date": "5 Apr 2025",
+    "tag": "EVENTO"
+  }
+]

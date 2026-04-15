@@ -1,0 +1,20 @@
+[
+  {
+    "name": "fabric-api",
+    "version": "0.91.0+1.20.4",
+    "filename": "fabric-api-0.91.0+1.20.4.jar",
+    "url": "https://github.com/TUO-ORG/ninni-launcher/releases/download/mods/fabric-api-0.91.0+1.20.4.jar"
+  },
+  {
+    "name": "sodium",
+    "version": "0.5.8",
+    "filename": "sodium-fabric-0.5.8+mc1.20.4.jar",
+    "url": "https://github.com/TUO-ORG/ninni-launcher/releases/download/mods/sodium-fabric-0.5.8+mc1.20.4.jar"
+  },
+  {
+    "name": "iris",
+    "version": "1.7.0",
+    "filename": "iris-1.7.0+mc1.20.4.jar",
+    "url": "https://github.com/TUO-ORG/ninni-launcher/releases/download/mods/iris-1.7.0+mc1.20.4.jar"
+  }
+]
